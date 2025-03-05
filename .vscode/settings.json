@@ -5,7 +5,7 @@
     "workbench.startupEditor": "none",
     "explorer.compactFolders": false,
     "terminal.integrated.fontSize": 16,
-    "editor.rulers": [80, 120],
+    "editor.rulers": [110, 120],
     "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
     "workbench.iconTheme": "material-icon-theme",
     "code-runner.executorMap": {
